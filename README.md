@@ -3,7 +3,7 @@
  How to run
 //////////////////////
 
-1. input.csv file assumes the format and pre-sorted as rule below. 
+1. Sort input.csv as rule below. 
   (example is in example/input.csv)
   
 -Sorted by Name
